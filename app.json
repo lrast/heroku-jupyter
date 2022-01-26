@@ -5,7 +5,8 @@
   ],
   "env": {
     "JUPYTER_NOTEBOOK_PASSWORD": {
-      "description": "IMPORTANT! Set a secure password."
+      "description": "IMPORTANT! Set a secure password.",
+      "generator": "secret"
     },
     "JUPYTER_NOTEBOOK_ARGS": {
       "description": "Additional command line arguments.",
