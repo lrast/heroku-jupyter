@@ -3,4 +3,4 @@ pgcontents
 ipywidgets
 ipython
 widgetsnbextension
-jupyterlab-widget
+jupyter_contrib_nbextensions
